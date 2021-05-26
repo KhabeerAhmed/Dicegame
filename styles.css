@@ -1,0 +1,43 @@
+body {
+    text-align: center;
+    background-color: #393e46;
+}
+
+h1 {
+    font-family: "Lobster", cursive;
+    font-size: 8rem;
+    color: #38dac1;
+    text-shadow: 5px 0px #064420;
+    padding: 2% 5%;
+    font-weight: bold;
+}
+
+
+.ctn {
+    padding: 1%;
+}
+
+h4 {
+    color: #38dac1;
+    font-family: 'Indie Flower', cursive;
+    font-size: 2rem;
+}
+
+footer {
+    font-family: 'Indie Flower', cursive;
+    color: #fff;
+    padding: 6%;
+    text-align: center;
+}
+
+.player1 {
+    text-align: right;
+}
+
+.player2 {
+    text-align: left;
+}
+
+.dice {
+    padding: 4% 0%;
+}
