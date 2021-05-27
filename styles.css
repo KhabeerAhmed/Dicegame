@@ -41,3 +41,9 @@ footer {
 .dice {
     padding: 4% 0%;
 }
+
+@media screen and (max-width: 700px ) {
+    .column {
+        text-align: center;
+    }
+}
